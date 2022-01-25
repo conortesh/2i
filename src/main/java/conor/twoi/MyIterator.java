@@ -43,7 +43,7 @@ public class MyIterator
      * @param a the number that is iterated by.
      * @param x the number that is iterated to.
      */
-    private static List<Integer> iterate(int a, int x)
+    public static List<Integer> iterate(int a, int x)
     {
         List<Integer> results = new ArrayList<>();
         for (int i = a; i <= x; i += a)
