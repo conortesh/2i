@@ -9,7 +9,7 @@ import java.util.List;
  * Assumptions made:
  * <ul>
  *  <li>a and x are integers,</li>
- *  <li>the iterations ae to be printed</li>
+ *  <li>the iterations are to be printed</li>
  *  <li>the class doesn't need to read inputs,</li>
  *  <li>a is less than or equal to x.</li>
  * </ul>
